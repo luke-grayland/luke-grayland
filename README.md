@@ -1,6 +1,6 @@
 Hi, I'm Luke. 
 
-I'm a Bristol based developer, currently studying Full Stack Development at iO Academy. 
+I'm a Bristol based Full Stack Developer.
 
 I love music and books (talk to me about hip hop and Stephen King).
 
