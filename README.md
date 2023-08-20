@@ -1,5 +1,5 @@
 Hi, I'm Luke. 
 
-I'm a Bristol based, Full Stack Developer.
+I'm a Full Stack Developer.
 
-You can contact me on lukegrayland.dev@gmail.com.
+You can contact me at lukegrayland.dev@gmail.com.
